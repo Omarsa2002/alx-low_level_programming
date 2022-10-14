@@ -1,6 +1,6 @@
 /*
 *file : 0-positive_or_negative.c
-*Author:Omar
+*Author:Shady
 */
 #include <stdio.h>
 #include <stdlib.h>
