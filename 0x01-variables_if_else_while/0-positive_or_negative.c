@@ -1,5 +1,5 @@
 /*
-*file:0-positive_or_negative.c
+*file : 0-positive_or_negative.c
 *Author:Omar
 */
 #include <stdio.h>
@@ -26,6 +26,7 @@ int main(void)
 		printf("%d is negative\n", n);
 	else
 		printf("%d is zero\n", n);
-	
+
 	return (0);
+
 }
