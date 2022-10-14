@@ -1,7 +1,3 @@
-/*
-*file : 0-positive_or_negative.c
-*Author:Amira
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
