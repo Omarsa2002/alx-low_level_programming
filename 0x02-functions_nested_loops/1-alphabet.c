@@ -4,7 +4,6 @@
 #include "main.h"
 
 /**
- * main - Determines if a number is positive, negative or zero.
  *print_alphabet - prints the type
  *of the number
  *
