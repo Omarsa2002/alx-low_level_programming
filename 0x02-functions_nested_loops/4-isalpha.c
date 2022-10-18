@@ -8,7 +8,7 @@
  *of the number
  * Return: Always 0 (Success)
  */
-int isalpha(int c)
+int _isalpha(int c)
 {
 	if((c >= 'a' && c <= 'z' ) || (c >= 'A' && c <= 'z'))
 		return(1);
