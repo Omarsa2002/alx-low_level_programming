@@ -16,7 +16,7 @@ int main(void)
 	
 	for(i = 0;i<size;i++)
 		_putchar(a[i]);
-	_putchar("\n");
+	_putchar('\n');
 	
 	return (0);
 }
