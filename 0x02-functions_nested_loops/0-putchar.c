@@ -10,12 +10,12 @@
  */
 int main(void)
 {
-	char a[] = "__putchar";
+	char a[] = "_putchar";
 	int i = 0;
 	
 	for(i;i<sizeof(a)-1;i++)
-		__putchar(a[i]);
-	__putchar("\n");
+		_putchar(a[i]);
+	_putchar("\n");
 	
 	return (0);
 }
