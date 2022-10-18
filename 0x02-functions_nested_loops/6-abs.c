@@ -4,7 +4,7 @@
 #include "main.h"
 
 /**
- *print_sign - prints the type
+ *_abs - prints the type
  *of the number
  *@n: an integer char
  * Return: Always 0 (Success)
