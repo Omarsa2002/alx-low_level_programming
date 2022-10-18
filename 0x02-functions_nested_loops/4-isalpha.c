@@ -6,6 +6,7 @@
 /**
  *_isalpha - prints the type
  *of the number
+ *@c: an integer char
  * Return: Always 0 (Success)
  */
 int _isalpha(int c)
