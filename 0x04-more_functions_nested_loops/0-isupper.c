@@ -4,9 +4,9 @@
 #include "main.h"
 
 /**
-*_isupper-checkachar
+*_isupper - check a char
 *@c:variable
-*Return:0or2
+*Return: 0 or 2
 */
 int _isupper(int c)
 {
